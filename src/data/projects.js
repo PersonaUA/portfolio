@@ -47,17 +47,26 @@ export const projects = [
   {
     id: 'tetris-game',
     title: 'Tetris',
-    description: 'Классическая игра Тетрис.',
+    description: 'Классическая игра ТЕТРИС.',
     url: 'https://personaua.github.io/tetris-game/',
     icon: '🧩',
     tags: ['Tetris'],
     status: 'active'
   },
   {
-    id: 'project5',
-    title: 'Project 5',
+    id: 'arkanoid-game',
+    title: 'Arkanoid',
+    description: 'Старый добрый Арканоид',
+    url: 'https://personaua.github.io/arkanoid-game/',
+    icon: '🧱',
+    tags: ['Coming Soon'],
+    status: 'soon'
+  },
+  {
+    id: 'project',
+    title: 'Project',
     description: 'Следующий проект находится на стадии планирования.',
-    url: 'https://personaua.github.io/project5/',
+    url: 'https://personaua.github.io/project/',
     icon: '🛠️',
     tags: ['Coming Soon'],
     status: 'soon'
