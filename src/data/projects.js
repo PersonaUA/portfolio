@@ -45,13 +45,13 @@ export const projects = [
     status: 'active'
   },
   {
-    id: 'project4',
-    title: 'Project 4',
-    description: 'В разработке. Новый интересный проект уже в пути.',
-    url: 'https://personaua.github.io/project4/',
-    icon: '⚙️',
-    tags: ['Coming Soon'],
-    status: 'soon'
+    id: 'tetris-game',
+    title: 'Tetris',
+    description: 'Классическая игра Тетрис.',
+    url: 'https://personaua.github.io/tetris-game/',
+    icon: '🧩',
+    tags: ['Tetris'],
+    status: 'active'
   },
   {
     id: 'project5',
