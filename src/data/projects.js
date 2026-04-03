@@ -36,13 +36,13 @@ export const projects = [
     status: 'active'
   },
   {
-    id: 'project3',
-    title: 'Project 3',
-    description: 'Скоро здесь появится новый проект. Следите за обновлениями!',
-    url: 'https://personaua.github.io/project3/',
-    icon: '🔧',
-    tags: ['Coming Soon'],
-    status: 'soon'
+    id: 'neon-pong',
+    title: 'Neon Pong',
+    description: 'Классический 2D пинг-понг, как в детстве.',
+    url: 'https://personaua.github.io/neon-pong/',
+    icon: '🏓',
+    tags: ['Pong', 'Neon'],
+    status: 'active'
   },
   {
     id: 'project4',
