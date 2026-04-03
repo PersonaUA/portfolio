@@ -32,7 +32,7 @@ export const projects = [
     description: 'Браузерная 3D-игра с иммерсивным геймплеем прямо в окне браузера без плагинов.',
     url: 'https://personaua.github.io/3d-game/',
     icon: '🎮',
-    tags: ['3D', 'WebGL', 'Three.js'],
+    tags: ['BabylonJS', 'WebGL', 'WebGPU'],
     status: 'active'
   },
   {
@@ -59,8 +59,8 @@ export const projects = [
     description: 'Старый добрый Арканоид',
     url: 'https://personaua.github.io/arkanoid-game/',
     icon: '🧱',
-    tags: ['Coming Soon'],
-    status: 'soon'
+    tags: ['VueJS'],
+    status: 'active'
   },
   {
     id: 'project',
